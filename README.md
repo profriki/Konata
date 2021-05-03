@@ -5,8 +5,8 @@ https://www.youtube.com/watch?v=298-Q7MqRYk&t=236s
 i decided to make the program functional on c#
 the program uses System.Net.Mail to get the information
 the program its optimized to be used whit gmail as the sender 
-the reciver mail can be any mail of any kind
-if yoy have trouble on "insecure connection" please check your sender mail 
+the reciver mail can be any mail of any kind,
+if you have trouble on "insecure connection" please check your sender mail 
 You should check 'Turn on' radio button in the following link relevant to your gmail account. It would then work fine.
 https://www.google.com/settings/security/lesssecureapps
 
