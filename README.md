@@ -1,7 +1,8 @@
 i know its tsukasa not konata im sorry guys :c
-this project iits the funcional version of the meme scam inspired by yt Channel Bleeplo ahd his video
+this project its the funcional version of the meme scam of tsukasa
+i got inspired by yt Channel Bleeplo and his video
 https://www.youtube.com/watch?v=298-Q7MqRYk&t=236s
-i decides to make the program functional on c#
+i decided to make the program functional on c#
 the program uses System.Net.Mail to get the information
 the program its optimized to be used whit gmail as the sender 
 the reciver mail can be any mail of any kind
